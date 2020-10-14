@@ -1,0 +1,78 @@
+a{
+	color:#00966E;
+}
+
+#flag{
+	position:absolute;
+	left:720px;
+}
+#des{
+	color:#D52612;
+        font-size: 1.2em;
+        font-family: "Times New Roman", serif;
+        font-style: italic;
+}
+body{
+        background-image:url("bulg.jpg")
+}
+body.main{
+		color:#D52612;
+        font-size: 1.2em;
+        font-family: "Times New Roman", serif;
+        font-style: italic;
+}
+body.content{
+	font-size: 1.3em;
+    font-family: arial, verdana, sans-serif;
+}
+nav{
+  text-align: center;
+}
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  float:top;
+}
+a:hover{
+	color:#D62612;
+}
+a:active{
+	font-size: 1.5em;
+}
+#imgcult{
+position:relative;
+left:720px;
+}
+.tur{
+width:180px;	
+}
+#Soph{
+position:relative;
+left: 350px;
+top: 50px;
+z-index: 1;
+}
+#Plov{
+position:relative;
+left: 450px;
+z-index: 2;
+}
+#Varn{
+position:relative;
+left: 550px;
+z-index: 3;
+}
+#Burg{
+position:relative;
+left: 650px;
+z-index: 4;
+}
+#Meln{ 
+position:relative;
+left: 750px;
+z-index: 5; 
+}
+.tur:hover{
+width:360px;	
+}
